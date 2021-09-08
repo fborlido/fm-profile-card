@@ -16,26 +16,26 @@ body {
   font-size: 18px;
   font-family: "Kumbh Sans", sans-serif;
   font-weight: 400;
-  background: url(/images/bg-pattern-bottom.svg) bottom -400px right -100px
+  background: url(./images/bg-pattern-bottom.svg) bottom -400px right -100px
       no-repeat,
-    url(/images/bg-pattern-top.svg) top -400px left -100px no-repeat $Darkcyan;
+    url(./images/bg-pattern-top.svg) top -400px left -100px no-repeat $Darkcyan;
   //background: url(/images/bg-pattern-top.svg);
   //background-color: $Darkcyan;
 }
 
 @media screen and (max-width: 1200px) {
   body {
-    background: url(/images/bg-pattern-bottom.svg) bottom -500px right -400px
+    background: url(./images/bg-pattern-bottom.svg) bottom -500px right -400px
         no-repeat,
-      url(/images/bg-pattern-top.svg) top -500px left -400px no-repeat $Darkcyan;
+      url(./images/bg-pattern-top.svg) top -500px left -400px no-repeat $Darkcyan;
   }
 }
 
 @media screen and (max-width: 700px) {
   body {
-    background: url(/images/bg-pattern-bottom.svg) bottom -600px right -700px
+    background: url(./images/bg-pattern-bottom.svg) bottom -600px right -700px
         no-repeat,
-      url(/images/bg-pattern-top.svg) top -600px left -700px no-repeat $Darkcyan;
+      url(./images/bg-pattern-top.svg) top -600px left -700px no-repeat $Darkcyan;
   }
 }
 
